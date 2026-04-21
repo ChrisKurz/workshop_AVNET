@@ -9,6 +9,7 @@ Please download following ZIP file and extract it into your Workspace folder, e.
 
 [Download ZIP file](lps22hb.zip)
 
+> Right mouse click on above link, and click on _Save link as..._.
 
 ## Code Snippets for Hands-On Sessions
 In this repository, you will find the files you need for the hands-on session. 
