@@ -4,6 +4,12 @@
 >  24.June 2026, Rothrist <br>
 >  23.January 2026, Leinfelden-Echterdingen <br>
 
+## The LPS22HB Sensor Project
+Please download following ZIP file and extract it into your Workspace folder, e.g. C:/Nordic/Workspace
+
+[Download ZIP file](lps22hb.zip)
+
+
 ## Code Snippets for Hands-On Sessions
 In this repository, you will find the files you need for the hands-on session. 
 
