@@ -18,7 +18,9 @@ Here you will find the code snippets you will add to the LPS22HB Sensor project.
 
 - [__lps22hb_sensorSim__: Replace LPS22HB sensor by a simulated Sensor](HandsOn/simulatedSensor.md)
 
-- __lps22hb_thread__: this project is identical to the lps22hb project. It should serve as a starting point and sensor handling should be implemented via thread.
+- [__lps22hb_thread__: Do Sensor handling in an own <code>sensor_thread</code>](HandsOn/thread.md)
+
+- [__lps22hb_threadanalyzer__: Enable Thread analyzer](HandsOn/thread-analyzer.md)
 
 ## Workshop Slides
 - Introduction to Zephyr
