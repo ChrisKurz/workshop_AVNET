@@ -16,6 +16,8 @@ Here you will find the code snippets you will add to the LPS22HB Sensor project.
 
 - [__lps22hb_shell__: Adding I2C shell to your project](HandsOn/i2cshell.md)
 
+- [__lps22hb_sensorShell__: Adding Sensor shell to the project](HandsOn/sensorShell.md)
+
 - [__lps22hb_sensorSim__: Replace LPS22HB sensor by a simulated Sensor](HandsOn/simulatedSensor.md)
 
 - [__lps22hb_thread__: Do Sensor handling in an own <code>sensor_thread</code>](HandsOn/thread.md)
