@@ -14,6 +14,7 @@
         const struct device *const dev = DEVICE_DT_GET(SENSOR_NODE);
         if (!device_is_ready(dev)) {
             printk("Sensor is not ready %s\n", dev->name);
+            while(1);
     //      return 0;
         }
         printk("Sensor is ready!\n");
