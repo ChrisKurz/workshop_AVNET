@@ -17,7 +17,7 @@ In this repository, you will find the files you need for the hands-on session.
 
 ## Workshop Slides
 - Introduction to Zephyr
-- [_nRF Connect SDK_: How Nordic uses Zephyr](presentations/2026-05-05_AVNET_Zephyr Workshop [Rothrist]_nrfConnectSDK-HowNordicUsesZephyr.pdf)
+- [_nRF Connect SDK_: How Nordic uses Zephyr](presentations/2026-05-05_AVNET_Zephyr Workshop[Rothrist]_nrfConnectSDK-HowNordicUsesZephyr.pdf)
 - Configure software without changing source code: Kconfig and DeviceTree]()
 - Visual Studio Code and useful tools]()
 - Hands-on session: Unboxing the nRF54L15DK, QuickStart, Board Configurator, Connecting an ST LPS22 pressure sensor, Configure Zephyr to read sensor data, Running I2C shell]()
