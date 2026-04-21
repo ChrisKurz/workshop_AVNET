@@ -22,7 +22,10 @@ User following Code Snippets to modify the LPS22HB project and add functionality
 
 - [__lps22hb_thread__: Do Sensor handling in an own <code>sensor_thread</code>](HandsOn/thread.md)
 
-- [__lps22hb_threadanalyzer__: Enable Thread analyzer](HandsOn/thread-analyzer.md)
+- [__lps22hb_thread_analyzer__: Enable Thread analyzer](HandsOn/thread-analyzer.md)
+
+- [__lps22hb_workqueue__: Do Sensor handling within a Workqueue function](HandsOn/workqueue.md)
+  
 
 ## Workshop Slides
 - Introduction to Zephyr
