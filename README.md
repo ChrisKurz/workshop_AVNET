@@ -14,7 +14,7 @@ Please download following ZIP file and extract it into your Workspace folder, e.
 ## Code Snippets for Hands-On Sessions
 User following Code Snippets to modify the LPS22HB project and add functionality: 
 
-- [__lps22hb_shell__: Adding I2C shell to your project](HandsOn/i2cshell.md)
+- [__lps22hb_I2Cshell__: Adding I2C shell to your project](HandsOn/i2cshell.md)
 
 - [__lps22hb_sensorShell__: Adding Sensor shell to the project](HandsOn/sensorShell.md)
 
