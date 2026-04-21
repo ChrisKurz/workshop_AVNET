@@ -9,17 +9,20 @@ Please download following ZIP file and extract it into your Workspace folder, e.
 
 [Download ZIP file](lps22hb.zip)
 
+> Right mouse click on above link, and click on _Save link as..._.
 
 ## Code Snippets for Hands-On Sessions
-In this repository, you will find the files you need for the hands-on session. 
+User following Code Snippets to modify the LPS22HB project and add functionality: 
 
-1) __lps22hb__: the LPS22hb demo.
+- [__lps22hb_shell__: Adding I2C shell to your project](HandsOn/i2cshell.md)
 
-2) __lps22hb\_shell__:  this project should be modified to enable I2C and sensor Shell. See the corresponding slide.
+- [__lps22hb_sensorShell__: Adding Sensor shell to the project](HandsOn/sensorShell.md)
 
-3) __lps22hb\_sensorSim__: as described in the slide, the simulated sensor must be activated in the DeviceTree overlay file and the simSensor node must be selected in the code.
+- [__lps22hb_sensorSim__: Replace LPS22HB sensor by a simulated Sensor](HandsOn/simulatedSensor.md)
 
-4) __lps22bh\_thread__: this project is identical to the lps22hb project. It should serve as a starting point and sensor handling should be implemented via thread.
+- [__lps22hb_thread__: Do Sensor handling in an own <code>sensor_thread</code>](HandsOn/thread.md)
+
+- [__lps22hb_threadanalyzer__: Enable Thread analyzer](HandsOn/thread-analyzer.md)
 
 ## Workshop Slides
 - Introduction to Zephyr
