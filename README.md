@@ -12,7 +12,7 @@ Please download following ZIP file and extract it into your Workspace folder, e.
 > Right mouse click on above link, and click on _Save link as..._.
 
 ## Code Snippets for Hands-On Sessions
-Here you will find the code snippets you will add to the LPS22HB Sensor project. 
+User following Codee Snippets to modify the LPS22HB project and add functionality: 
 
 - [__lps22hb_shell__: Adding I2C shell to your project](HandsOn/i2cshell.md)
 
