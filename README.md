@@ -21,4 +21,4 @@ In this repository, you will find the files you need for the hands-on session.
 - [Configure software without changing source code: Kconfig and DeviceTree](presentations/3-AVNET_ZephyrWorkshop_Kconfig_DeviceTree.pdf)
 - [Visual Studio Code and useful tools](presentations/4-AVNET_ZephyrWorkshop_VSCode.pdf)
 - [Hands-on session: Unboxing the nRF54L15DK, QuickStart, Board Configurator, Connecting an ST LPS22 pressure sensor, Configure Zephyr to read sensor data, Running I2C shell](presentations/5-AVNET_ZephyrWorkshop_HandsOn_Unboxing_SensorDemo.pdf)
-- [Hands-on session: Multi-Threaded Applications]](presentations/6-AVNET_ZephyrWorkshop_HandsOn_Threads.pdf)
+- [Hands-on session: Multi-Threaded Applications](presentations/6-AVNET_ZephyrWorkshop_HandsOn_Threads.pdf)
