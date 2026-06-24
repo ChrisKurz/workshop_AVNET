@@ -28,7 +28,7 @@ User following Code Snippets to modify the LPS22HB project and add functionality
   
 
 ## Workshop Slides
-- Introduction to Zephyr
+- [Introduction to Zephyr](presentations/Intro_Zephyr.pdf)
 - [Introducing Nordic Semiconductor](presentations/NordicSemiconductor_AVNET_Rothrist_June2026.pdf)
 - [_nRF Connect SDK_: How Nordic uses Zephyr](presentations/2-AVNET_ZephyrWorkshop_nrfConnectSDK.pdf)
 - [Configure software without changing source code: Kconfig and DeviceTree](presentations/3-AVNET_ZephyrWorkshop_Kconfig_DeviceTree.pdf)
